@@ -6,49 +6,23 @@
     <title>readme.md</title>
   </head>
   <body>
-    <h1><span style="font-family:
-Calibri;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;">Q4.&nbsp;</span><span
-        style="font-family:
-Calibri;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;"></span></h1>
-    <span style="font-family:
-Calibri;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;">Please
-      download a log file from <span style="font-family:
-Calibri;font-size:12pt;color:rgb(5,99,193);font-style:normal;font-variant:normal;">http://zhang.se/tmp//bpe.log.gz
-        <span style="font-family:
-Calibri;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;">If
-          you search ”FAILED”<span style="font-family:
-            ;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;">
-            in the log you will find a lot of information. Please write
-            a small script that can search all<span style="font-family:
-;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;">
-              FAILED job and print out the following information. Time
-              stamp, description of error, GEARID. <br>
-              For example:<span style="font-family:
-                ;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;">
-                <br>
-                2016-01-14 18:24:22,284<br>
-                &nbsp;"description":"Unknown exception<span
-                  style="font-family:
-                  ;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;">
-                  [object={\"resourceURI\":\"http://schemas.dmtf.org/cimi/1/Network\"
-                  <br>
-                  GEAR-8e2e0830-<span style="font-family:
-                    ;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;">
-                    35fa-40d5-b7da-d530dcc67845<br>
-                    <br>
-                    Answer:<br>
-                    <br>
-https://github.com/odm3122/q4_bash_sed_cut_grep_logfile_analysis/blob/master/forfailed.sh<br>
-                  </span></span></span></span></span></span></span></span><span
-      style="font-family:
-Calibri;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;"><span
-        style="font-family:
-        ;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;"><span
-          style="font-family:
-          ;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;"><span
-            style="font-family:
-            ;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;"><span
-              style="font-family:
-              ;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;"></span></span></span></span></span>
+    <h1>Q4.&nbsp;</h1>
+    Please download a log file from <a
+      href="http://zhang.se/tmp//bpe.log.gz">http://zhang.se/tmp//bpe.log.gz</a>
+    If you search ”FAILED” in the log you will find a lot of
+    information. Please write a small script that can search all FAILED
+    job and print out the following information. Time stamp, description
+    of error, GEARID. <br>
+    For example: <br>
+    2016-01-14 18:24:22,284<br>
+    &nbsp;"description":"Unknown exception [object={\"resourceURI\":\"<a
+      href="http://schemas.dmtf.org/cimi/1/Network%5C">http://schemas.dmtf.org/cimi/1/Network\</a>"
+    <br>
+    GEAR-8e2e0830- 35fa-40d5-b7da-d530dcc67845<br>
+    <br>
+    Answer:<br>
+    <br>
+    <a
+href="https://github.com/odm3122/q4_bash_sed_cut_grep_logfile_analysis/blob/master/forfailed.sh">https://github.com/odm3122/q4_bash_sed_cut_grep_logfile_analysis/blob/master/forfailed.sh</a>
   </body>
 </html>
