@@ -34,7 +34,12 @@ Calibri;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;">
                   <br>
                   GEAR-8e2e0830-<span style="font-family:
                     ;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;">
-                    35fa-40d5-b7da-d530dcc67845</span></span></span></span></span></span></span></span><span
+                    35fa-40d5-b7da-d530dcc67845<br>
+                    <br>
+                    Answer:<br>
+                    <br>
+https://github.com/odm3122/q4_bash_sed_cut_grep_logfile_analysis/blob/master/forfailed.sh<br>
+                  </span></span></span></span></span></span></span></span><span
       style="font-family:
 Calibri;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;"><span
         style="font-family:
